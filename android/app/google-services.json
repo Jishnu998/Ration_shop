@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "485648811449",
+    "project_id": "ration-shop-6406f",
+    "storage_bucket": "ration-shop-6406f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:485648811449:android:c50cb0ad45c3220093e268",
+        "android_client_info": {
+          "package_name": "com.ration_shop.ration_shop"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCfU6C9vJiKTGC4yuP0Gc16s_3yQgboLQI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
